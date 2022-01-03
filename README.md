@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Youngseo-Jeon0313.
 - 👀 I’m interested in projecting things that keep people from being lonely.
-- 🌱 I’m currently learning Python, Java.
-- 💞️ I want to work in ...
+- 🌱 I’m currently learning Python, React, Node.js, DB.
+- 💞️ I want to work in ..?
 - 📫 How to reach me : 20wjsdudtj@gmail.com
 
 <!---
