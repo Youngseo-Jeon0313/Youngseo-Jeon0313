@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-https://img.shields.io/badge/-passion-pink https://img.shields.io/badge/-python3-darkblue
+<img src=https://img.shields.io/badge/-passion-pink /> <img src=https://img.shields.io/badge/-python3-darkblue />
