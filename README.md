@@ -27,7 +27,7 @@ With love, we can do anything.
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=20wjsdudtj)](https://solved.ac/20wjsdudtj)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={20wjsdudtj})](https://solved.ac/{20wjsdudtj})
 </div>
 
 
