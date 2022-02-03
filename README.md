@@ -28,7 +28,8 @@ With love, we can do anything.
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-        [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=20wjsdudtj)](https://solved.ac/20wjsdudtj)
+        [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=20wjsdudtj)](https://solved.ac/20wjsdudtj)
 
 </div>
 
