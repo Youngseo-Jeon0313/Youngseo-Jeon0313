@@ -28,4 +28,7 @@ With love, we can do anything.
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 </div>
+[![Solved.ac
+20wjsdudtj](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+
 
