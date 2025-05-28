@@ -1,7 +1,7 @@
 
 ## 💗 YOUNGSEO JEON
 - Korea Aerospace Univ.✈️ SOFTWARE
-- Woori Bank 🏦 2025.05 ~
+- Woori Bank IT 💙 2025.05 ~
 - TECH Blog <a href="https://youngseo-computerblog.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Blogger&logoColor=white"/></a>
 - Email <a href="20wjsdudtj@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoColor=white"/></a>
 
